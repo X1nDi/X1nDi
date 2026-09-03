@@ -37,19 +37,6 @@ Backend-focused developer building services, integrations, automation and web pr
 
 </div>
 
-## 🌐 Web development
-
-I build polished web applications with responsive interfaces, server-side logic, authentication-aware admin workflows, data-driven features and clear user journeys.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-
-</div>
-
 ## ✨ Open-source work
 
 <table>
