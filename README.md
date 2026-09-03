@@ -87,12 +87,3 @@ Java server-side mechanics and gameplay features.
 </tr>
 </table>
 
-## 📌 What matters to me
-
-I care about clean data models, practical APIs, predictable failure modes and interfaces that make a system genuinely useful.
-
-<div align="center">
-
-<sub>Open to backend, platform and product-engineering work.</sub>
-
-</div>
