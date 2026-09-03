@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=X1nDi&fontSize=74&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Integrations%20%C2%B7%20Desktop%20Tools%20%C2%B7%20Minecraft&descAlignY=57&animation=fadeIn&color=0:020617,45:172554,100:6d28d9&fontColor=f8fafc&descColor=c4b5fd" alt="X1nDi — Software Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=X1nDi&fontSize=74&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Web%20Platforms%20%C2%B7%20Integrations%20%C2%B7%20Automation&descAlignY=57&animation=fadeIn&color=0:020617,45:172554,100:6d28d9&fontColor=f8fafc&descColor=c4b5fd" alt="X1nDi — Backend Developer" />
 
 <a href="https://t.me/hipdi"><img src="https://img.shields.io/badge/Telegram-Contact%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <img src="https://komarev.com/ghpvc/?username=X1nDi&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
@@ -11,31 +11,52 @@
 
 ## 👋 About
 
-I build practical software that connects services, automates routine work and gives people straightforward tools to get things done.
+Backend-focused developer building services, integrations, automation and web products — from a sound data model and API to an interface people enjoy using.
 
+- ⚙️ **Backend systems** — APIs, data flows, admin workflows and dependable automation
+- 🌐 **Web products** — Next.js and React applications with server-side logic and practical product flows
 - 🔌 **Integrations** — Telegram bots, MAX workflows and reliable message delivery
-- 🖥️ **Desktop software** — Windows utilities with automation, UI and system-level controls
 - 🎮 **Minecraft development** — Java plugins for moderation and server mechanics
 
 ## 🧰 Toolbox
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,docker,sqlite,git,github,linux,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,typescript,react,nextjs,tailwind,java,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Telegram%20Bot%20API-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API" />
-<img src="https://img.shields.io/badge/MAX%20API-6D28D9?style=flat-square&logoColor=white" alt="MAX API" />
 <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Minecraft%20Plugins-4C8BF5?style=flat-square&logo=java&logoColor=white" alt="Minecraft Plugins" />
 
 </div>
 
-## ✨ Featured projects
+## 🌐 Web work
+
+<table>
+<tr>
+<td valign="top">
+
+### 🔒 Private client platform — Novodent
+
+A polished dental clinic website and scheduling platform: a responsive public site, online booking, protected admin workflows, rules that prevent double booking, and email notifications.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+</td>
+</tr>
+</table>
+
+## ✨ Open-source work
 
 <table>
 <tr>
@@ -87,10 +108,10 @@ Java server-side mechanics and gameplay features.
 
 ## 📌 What matters to me
 
-Clean user flows, understandable setup, predictable behavior and keeping sensitive runtime data out of source control.
+I care about clean data models, practical APIs, predictable failure modes and interfaces that make a system genuinely useful.
 
 <div align="center">
 
-<sub>Open to interesting collaboration and product work.</sub>
+<sub>Open to backend, platform and product-engineering work.</sub>
 
 </div>
